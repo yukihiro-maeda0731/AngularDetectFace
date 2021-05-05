@@ -1,0 +1,27 @@
+.video {
+    border:12px solid #222;
+    background: grey;
+    height:70%;
+    width: 70%;
+}
+
+.cap-btn {
+    height: 70%;
+    width: 70%;
+    font-weight: bold;
+    font-size: 56px;
+}
+
+.canvas {
+    border:12px solid #222;
+    background: grey;
+    height:70%;
+    width: 70%;
+}
+
+.result {
+    height: 50%;
+    width: 50%;
+    font-weight: bold;
+    font-size: 14px;
+}
