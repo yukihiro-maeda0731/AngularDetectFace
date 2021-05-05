@@ -8,6 +8,6 @@ HTMLVideoで撮影した画像をAWSRekognitionで笑顔かどうか判定し、
 表示します。
 
 ## サーバー側(Spring Boot)のURL
-
+https://github.com/yukihiro-maeda0731/SpringDetectFace/tree/master
 
 
